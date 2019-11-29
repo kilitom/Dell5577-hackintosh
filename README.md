@@ -2,12 +2,12 @@
 # 感谢黑果的前辈大佬们，因为有他们的辛苦铺路，所以才会有这相对完善的引导。 
 ### 搞黑果，重要的是开心就好。
 
-系统是10.14.3(18D42)
+**系统是10.15.1(19B88)**</p>
 Dell5577配置： 
 
 |硬件类型|型号|
 |---- | ----- |
-|操作系统：|MacOS Mojave(18D42)|
+|操作系统：|MacOS Ctalina(19B88)|
 |处理器：|i5-7300HQ|
 |显卡：|HD630 /GTX1050 4G(屏蔽)|
 |内存：|12G/2400Mhz/三星|
@@ -26,7 +26,7 @@ Dell5577配置：
 
 |Intel power Gadget|
 | ----- |
-|<img width="60%" height="300" src=“https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png”>|
+|![HD1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png)|
 
 
 
