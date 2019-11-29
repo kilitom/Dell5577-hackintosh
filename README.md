@@ -26,7 +26,7 @@ Dell5577配置：
 
 |Intel power Gadget|
 | ----- |
-|![HD1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png)|
+|<img width="60%" height="300" src=“https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png”>|
 
 
 
