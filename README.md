@@ -30,7 +30,14 @@ Dell5577配置：
 | ！[HD1] （https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png） |
 ### 2020/3/6：
 * 如果不是大的系统更新(例如10.14跳10.15)导致hac使用过程中出现问题(例如触控板多指触控失效，声卡失效等)，请检查并及时更新lilu.kext核心驱动。
+* 此库提供的clover15.1引导最高支持正常使用到10.15.2系统。请各位"玩家"在使用时注意更新驱动提示"游戏体验"。
 
+|驱动名称 | 驱动作用|
+| lilu | 确保mac系统对各驱动的顺利调用。例如声卡，触控板等驱动的正常使用 | 
+| AppleALC | 驱动声卡 功能 | 
+| voodooi2C | 驱动触控板 功能 |
+|            | voodooi2c配合voodooi2CHID驱动i2c触控板(有些elan设备也有可能是i2c-hid设备)|
+|            | voodooi2c配合voodooi2CELAN驱动ELAN触控板 |
 
 ### 2019/7/21:
 
