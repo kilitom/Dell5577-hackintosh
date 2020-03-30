@@ -19,15 +19,12 @@ Dell5577配置：
 |--|--|
 |![HD14](https://github.com/Wmyaaa/Dell5577-hackintosh-clover/blob/master/pic/download.jpg)|![HD15](https://github.com/Wmyaaa/Dell5577-hackintosh-clover/blob/master/pic/download-1.jpg)|
 </br>
+------------------------假把意思分割线-----------------------
+
+### 2020/3/30：
+* 因为现在的”网卡“价格略贵，不确定是否刚需的话，可以通过手机的USB共享网络，把手机当做“外置网卡”，hahahah。通过一段的使用后，再确定需要与否。
 
 
-### 2019/11/27:  Clover15.1
-* 更新了CPU变频的控制，延长了电源的使用时长。平均测试睡眠耗电约为2小时/1%（仅个人测试结果）
-* 添加 **releases/发布**版面，提供单独下载。
-
-|Intel power Gadget|
-| ----- |
-| ！[HD1] （https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png） |
 ### 2020/3/6：
 * 如果不是大的系统更新(例如10.14跳10.15)导致hac使用过程中出现问题(例如触控板多指触控失效，声卡失效等)，请检查并及时更新lilu.kext核心驱动。
 * 此库提供的clover15.1引导最高支持正常使用到10.15.2系统。请各位"玩家"在使用时注意更新驱动提示"游戏体验"。
@@ -72,6 +69,12 @@ Dell5577配置：
 * 装好系统还只是入门，生命在于折腾，没有谁能一口吃成胖子，慢慢来，加油吧。
 
 ---------------------
+### 2019/11/27:  Clover15.1
+* 更新了CPU变频的控制，延长了电源的使用时长。平均测试睡眠耗电约为2小时/1%（仅个人测试结果）
+* 添加 **releases/发布**版面，提供单独下载。
+|Intel power Gadget|
+| ----- |
+| ！[HD1] （https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/IPG.png） |
 
 ### 2019/7/15：//Clover14no plug-in<br>
 * 添加了无需插件驱动耳机的Efi。睡眠唤醒正常，无爆音。缺点，无耳麦。插入耳机时无法使用麦克风。
